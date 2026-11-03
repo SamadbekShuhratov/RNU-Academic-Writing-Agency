@@ -1,0 +1,73 @@
+{
+  "team": {
+    "name": "RNU Autonomous Academic Writing Agency",
+    "version": "1.0.0",
+    "employees": [
+      {
+        "id": 1,
+        "name": "Project Manager",
+        "responsibilities": [
+          "Enforce RNU constraints",
+          "Log all agent states into Google Sheets ledger",
+          "Compile daily email briefs via Gmail API"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Outline & Structure Architect",
+        "responsibilities": [
+          "Craft research title",
+          "Define object/subject boundaries",
+          "Write three defended thesis statements with mandatory prefixes"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Chapter 1 Specialist",
+        "responsibilities": [
+          "Write introduction",
+          "Formulate 3-4 sentence fact-backed problem statement",
+          "Define one SMART goal sentence"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Literature Review Specialist",
+        "responsibilities": [
+          "Analyze existing solutions",
+          "Identify method limitations and research gaps"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Theoretical Framework Specialist",
+        "responsibilities": [
+          "Document foundational engineering and governance frameworks"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Practical Implementation Specialist",
+        "responsibilities": [
+          "Deliver executable implementation",
+          "Run empirical validation and report outcomes"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "General Conclusion Editor",
+        "responsibilities": [
+          "Write one-page conclusion tied to three nails"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Formatting & Bibliography Editor",
+        "responsibilities": [
+          "Finalize formatting",
+          "Compile hallucination-free bibliography using RNU style"
+        ]
+      }
+    ]
+  }
+}
